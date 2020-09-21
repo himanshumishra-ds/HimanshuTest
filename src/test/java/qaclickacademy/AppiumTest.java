@@ -9,6 +9,11 @@ public class AppiumTest {
 	{
 		System.out.println("INSIDE AppiumTest--> nativeAppAndroid");
 		System.out.println("modified changes 1");
+		System.out.println("modified changes 2");
+		System.out.println("modified changes 22");
+		System.out.println("modified changes 3");
+		System.out.println("modified changes 4");
+		
 	}
 	
 	@Test
