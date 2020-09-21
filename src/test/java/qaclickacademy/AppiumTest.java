@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void nativeAppAndroid()
 	{
 		System.out.println("INSIDE AppiumTest--> nativeAppAndroid");
+		System.out.println("modified changes 1");
 	}
 	
 	@Test
