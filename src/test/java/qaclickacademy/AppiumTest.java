@@ -13,6 +13,10 @@ public class AppiumTest {
 		System.out.println("modified changes 22");
 		System.out.println("modified changes 3");
 		System.out.println("modified changes 4");
+		System.out.println("asdjbclajbl");
+		System.out.println("asdjbclajbl");
+		
+		
 		
 	}
 	
